@@ -1,5 +1,8 @@
 == README
 
+[![Build Status](https://travis-ci.org/QuentinSimonU/projet.svg?branch=master)](https://travis-ci.org/QuentinSimonU/projet)
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
