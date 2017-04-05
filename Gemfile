@@ -39,3 +39,10 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+#API meteo
+gem 'forecast_io', '~> 2.0.0'
+
+#API
+gem 'nominatim', '~> 0.0.6'
+
+gem 'vcr', '~> 3.0', group: :test
