@@ -1,0 +1,7 @@
+{
+  "/students/*":{
+    "target": "http://projet-quentinsimon27655.codeanyapp.com:3000",
+    "secure": false,
+    "loglevel": "debug"
+  }
+}
